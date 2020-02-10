@@ -1,0 +1,73 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    /*border: 1px solid black;*/
+}
+
+
+.contenedor{
+    width: 985px;
+    background-color: rgb(238, 238, 238);
+    padding: 20px 20px 20px 20px;
+}
+
+.box{
+    display: inline-block;
+    width: 45px;
+    height: 40px;;
+    text-align: center;
+    vertical-align: top;
+}
+
+
+.box p{
+    text-align: center;
+    vertical-align:top;
+    font-size: 10px;
+    margin-top: 2px;
+}
+
+.box1 {
+    width:143px;
+    display: inline-block;
+}
+
+.box1 p{
+    font-size: 10px;
+}
+
+
+.azul {
+    background-color: rgb(104, 155, 255)
+}
+
+
+.rosado{
+    background-color: rgb(253, 154, 152);
+}
+
+.amarillo{
+    background-color: rgb(254, 203, 0);
+}
+
+.verde{
+    background-color: rgb(31, 202, 33);
+}
+
+
+.fila8{
+    margin-top: 15px;
+}
+
+.espacioderecho {
+    margin-right: 15px;
+}
+
+.fila1, .fila2, .fila3, .fila4, .fila5, .fila6, .fila7, .fila9{
+    display: block;
+    margin-top: 5px;
+}
+
+h5{
+    color: navy;
+}
